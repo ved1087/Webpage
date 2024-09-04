@@ -1,0 +1,95 @@
+body {
+    background-image: url("img/TLX-Login.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+}
+
+.Box {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    width: 350px;
+    height: 390px;
+    border-radius: 11px;
+    position: absolute;
+    top: 18%;
+    left: 57%;
+
+}
+
+.matter {
+    margin: 5px 10px 10px 20px;
+}
+
+#heading {
+    margin-top: 0px;
+    margin-bottom: -7px;
+    padding-bottom: 0px;
+}
+
+#para {
+    margin: 0px 10px 10px 2px;
+    font-size: 14px;
+}
+
+.input {
+    height: 45px;
+    width: 280px;
+    margin: 10px 10px 10px 0px;
+}
+
+#Form {
+    margin-top: 25px;
+}
+
+
+#radio {
+    transform: scale(0.8);
+}
+
+#other label {
+    font-size: 12px;
+}
+
+#forget {
+    font-size: 12px;
+    margin: 10px 10px 10px 74px;
+}
+
+.button {
+    color: white;
+    background-color: royalblue;
+    border: none;
+    width: 288px;
+    height: 42px;
+    margin: 15px 10px 10px 0px;
+}
+
+.svg1 {
+    position: relative;
+    top: 55px;
+    left: 823px;
+}
+
+.link1{
+    font-size: 12px;
+    position: relative;
+    top: 0px;
+    left: 65px;
+}
+
+.eye{
+    position: relative;
+    bottom: 176px;
+    left: 251px;
+}
+
+.bi-bi-eye{
+    position: relative;
+    bottom: 173px;
+    left: 252px;
+    opacity: 48%;
+    height: 15px;
+}
